@@ -157,6 +157,7 @@ FLOWS = [
     'openuv',
     'owntracks',
     'point',
+    'qwikswitch',
     'rainmachine',
     'simplisafe',
     'smhi',
